@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavanyacheshani" alt="lavanyacheshani" /></a> </p>
 
 
-- 💬 Ask me about **Java, Python, React**
+- 💬 Ask me about **Java, Python, React, PHP, SQL**
 
 - 📫 How to reach me **lavanyacheshani5@gmail.com**
 
