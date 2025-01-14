@@ -16,7 +16,7 @@
 
 ---
 
-- 🔭 I’m currently working on **GameHub** and **HirelyAI**.
+- 🔭 I’m currently working on **GameHub** and **HirelyAI** projects.
 - 💬 Ask me about **Java, React, PHP, SQL, and AI projects.**
 - 🌱 I’m currently learning **OpenTelemetry, GraphQL, and advanced AI techniques.**
 - 📫 How to reach me: **lavanyacheshani5@gmail.com**
