@@ -16,7 +16,7 @@
 
 ---
 
-- 💬 Ask me about **Java, React, PHP, SQL, and AI projects.**
+- 💬 Ask me about **Java, React, SQL, and AI projects.**
 - 🌱 I’m currently learning **OpenTelemetry, GraphQL, and advanced AI techniques.**
 - 📫 How to reach me: **lavanyacheshani5@gmail.com**
 - 🌟 Fun Fact: I love reading and dream of building a home library someday.
